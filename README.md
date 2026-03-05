@@ -23,3 +23,4 @@ Clone the repository and open any HTML file (e.g., `home.html`) directly in your
 
 * All pages share a consistent header and footer for seamless navigation.
 * Designed to be simple, clean, and easily customizable.
+* For better user experience please open it in laptop/desktop the website is not mobile responsive 
